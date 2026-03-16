@@ -101,5 +101,7 @@ public class Product {
         return "";
     }
 
-    public double calculateShelfLife
+    public double calculateShelfLife() {
+        return 0.0;
+    }
 }
